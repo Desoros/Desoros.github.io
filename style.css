@@ -1,0 +1,11 @@
+* {
+  font-family: "georgia";
+}
+
+#intermediate-list li {
+  color: green;
+}
+
+#beginner-list li {
+  color: orange;
+}
