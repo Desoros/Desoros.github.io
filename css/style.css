@@ -1,0 +1,53 @@
+* {
+  font-family: Georgia, Helvetica;
+  padding: 0;
+  margin: 10px auto;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: LightSkyBlue;
+  min-width: 600px;
+  max-width: 1024px;
+}
+
+li {
+  padding: 0;
+  list-style-position: inside;
+}
+
+#intermediate-list {
+  background-color: rgba(173, 255, 47, 0.6);
+}
+
+#intermediate-list:hover {
+  background-color: rgba(173, 255, 47, 0.8);
+}
+
+#beginner-list {
+  background-color: rgba(255, 165, 0, 0.6);
+}
+
+#beginner-list:hover {
+  background-color: rgba(255, 165, 0, 0.8);
+}
+
+.skill-list {
+  border: 2px solid black;
+}
+
+nav table td {
+  padding: 15px;
+}
+
+hr {
+  color: black;
+  background-color: black;
+}
+
+img {
+	min-height: 120px;
+	min-width: 120px;
+	margin: 0 auto;
+}
